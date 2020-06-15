@@ -6,6 +6,9 @@ This implementation doesnt cover elimination of the EOG artifacts from EEG signa
 I'll develope a GUI to insert ICA and PCA on EEG signals As project!
 
 
+
 Useful sources:
+
 https://homepage.math.uiowa.edu/~whan/072.d/S3-4.pdf
+
 https://medium.com/@CarstenKlein/separating-mixed-signals-with-independent-component-analysis-38205188f2f4
